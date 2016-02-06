@@ -1,2 +1,4 @@
 printf("Hello World!?");
 printf("My name Vasya?");
+printf("Hello my Dear friend!?");
+printf("END!?");
