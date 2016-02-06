@@ -1,1 +1,1 @@
-printf("Goobbye woeld!"})
+printf("Goodbye world!");
